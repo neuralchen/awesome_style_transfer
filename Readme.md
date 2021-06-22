@@ -73,6 +73,27 @@
 - Deep Preset: Blending and Retouching Photos With Color Style Transfer
 [[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ho_Deep_Preset_Blending_and_Retouching_Photos_With_Color_Style_Transfer_WACV_2021_paper.html)
 
+## CVPR2019
+- Attention-Aware Multi-Stroke Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yao_Attention-Aware_Multi-Stroke_Style_Transfer_CVPR_2019_paper.html)
+
+- Arbitrary Style Transfer With Style-Attentional Networks
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_Arbitrary_Style_Transfer_With_Style-Attentional_Networks_CVPR_2019_paper.html)
+
+- A Flexible Convolutional Solver for Fast Style Transfers
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Puy_A_Flexible_Convolutional_Solver_for_Fast_Style_Transfers_CVPR_2019_paper.html)
+
+- A Content Transformation Block for Image Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Kotovenko_A_Content_Transformation_Block_for_Image_Style_Transfer_CVPR_2019_paper.html)
+
+- Style Transfer by Relaxed Optimal Transport and Self-Similarity
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Kolkin_Style_Transfer_by_Relaxed_Optimal_Transport_and_Self-Similarity_CVPR_2019_paper.html)
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
 
 - NAME
 [[paper]]()
