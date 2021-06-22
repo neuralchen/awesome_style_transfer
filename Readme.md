@@ -30,3 +30,39 @@
 
 - What Can Style Transfer and Paintings Do for Model Robustness?
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_What_Can_Style_Transfer_and_Paintings_Do_for_Model_Robustness_CVPR_2021_paper.html)
+
+
+## ICCV2019
+- Content and Style Disentanglement for Artistic Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html)
+
+- Understanding Generalized Whitening and Coloring Transform for Universal Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Chiu_Understanding_Generalized_Whitening_and_Coloring_Transform_for_Universal_Style_Transfer_ICCV_2019_paper.html)
+
+- Multimodal Style Transfer via Graph Cuts
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Multimodal_Style_Transfer_via_Graph_Cuts_ICCV_2019_paper.html)
+
+- A Closed-Form Solution to Universal Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.html)
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
+
+- NAME
+[[paper]]()
+
+
+- NAME
+[[paper]]()
