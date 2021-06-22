@@ -55,6 +55,25 @@
 - Collaborative Distillation for Ultra-Resolution Universal Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Collaborative_Distillation_for_Ultra-Resolution_Universal_Style_Transfer_CVPR_2020_paper.html)
 
+## ECCV2020
+- Filter Style Transfer between Photos
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4809_ECCV_2020_paper.php)
+
+- Optical Flow Distillation: Towards Efficient and Stable Video Style Transfer
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/13_ECCV_2020_paper.php)
+
+- Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/575_ECCV_2020_paper.php)
+
+- Domain-Specific Mappings for Generative Adversarial Style Transfer
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/634_ECCV_2020_paper.php)
+
+- Iterative Feature Transformation for Fast and Versatile Universal Style Transfer
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3170_ECCV_2020_paper.php)
+
+- Deformable Style Transfer
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5333_ECCV_2020_paper.php)
+
 ## ICCV2019
 - Content and Style Disentanglement for Artistic Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html)
