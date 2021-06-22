@@ -88,12 +88,3 @@
 
 - Style Transfer by Relaxed Optimal Transport and Self-Similarity
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Kolkin_Style_Transfer_by_Relaxed_Optimal_Transport_and_Self-Similarity_CVPR_2019_paper.html)
-
-- NAME
-[[paper]]()
-
-- NAME
-[[paper]]()
-
-- NAME
-[[paper]]()
