@@ -45,23 +45,33 @@
 - A Closed-Form Solution to Universal Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.html)
 
-- NAME
-[[paper]]()
+- Photorealistic Style Transfer via Wavelet Transforms
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yoo_Photorealistic_Style_Transfer_via_Wavelet_Transforms_ICCV_2019_paper.html)
 
-- NAME
-[[paper]]()
+## CVPR2020
 
-- NAME
-[[paper]]()
+- Two-Stage Peer-Regularized Feature Recombination for Arbitrary Image Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Svoboda_Two-Stage_Peer-Regularized_Feature_Recombination_for_Arbitrary_Image_Style_Transfer_CVPR_2020_paper.html)
 
-- NAME
-[[paper]]()
+- Collaborative Distillation for Ultra-Resolution Universal Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Collaborative_Distillation_for_Ultra-Resolution_Universal_Style_Transfer_CVPR_2020_paper.html)
 
-- NAME
-[[paper]]()
+## WACV
 
-- NAME
-[[paper]]()
+- Real-Time Localized Photorealistic Video Style Transfer
+[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Xia_Real-Time_Localized_Photorealistic_Video_Style_Transfer_WACV_2021_paper.html)
+
+- Style Transfer by Rigid Alignment in Neural Net Feature Space
+[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Hada_Style_Transfer_by_Rigid_Alignment_in_Neural_Net_Feature_Space_WACV_2021_paper.html)
+
+- Deep Preset: Blending and Retouching Photos With Color Style Transfer
+[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ho_Deep_Preset_Blending_and_Retouching_Photos_With_Color_Style_Transfer_WACV_2021_paper.html)
+
+- Exploiting Spatial Relation for Reducing Distortion in Style Transfer
+[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Chang_Exploiting_Spatial_Relation_for_Reducing_Distortion_in_Style_Transfer_WACV_2021_paper.html)
+
+- Deep Preset: Blending and Retouching Photos With Color Style Transfer
+[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ho_Deep_Preset_Blending_and_Retouching_Photos_With_Color_Style_Transfer_WACV_2021_paper.html)
 
 
 - NAME
