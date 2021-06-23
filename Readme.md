@@ -7,7 +7,7 @@
 - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 [[paper]](https://arxiv.org/pdf/1703.06868.pdf)
 
-- 
+- Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 [[paper]](https://arxiv.org/pdf/1603.08155.pdf)
 
 - A Style-Aware Content Loss for Real-time HD Style Transfer
