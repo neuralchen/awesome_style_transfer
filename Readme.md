@@ -1,5 +1,18 @@
 # Paper list of Style Transfer
 
+## The greatest style transfer papers
+- A Neural Algorithm of Artistic Style
+[[paper]](https://arxiv.org/pdf/1508.06576.pdf)
+
+- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+[[paper]](https://arxiv.org/pdf/1703.06868.pdf)
+
+- 
+[[paper]](https://arxiv.org/pdf/1603.08155.pdf)
+
+- A Style-Aware Content Loss for Real-time HD Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Artsiom_Sanakoyeu_A_Style-aware_Content_ECCV_2018_paper.pdf)
+
 ## CVPR2021
 - In the Light of Feature Distributions: Moment Matching for Neural Style Transfer
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Kalischek_In_the_Light_of_Feature_Distributions_Moment_Matching_for_Neural_CVPR_2021_paper.html)
