@@ -1,5 +1,9 @@
 # Paper list of Style Transfer
 
+## Ours style transfer paper
+- Anisotropic Stroke Control for Multiple Artists Style Transfer
+[[github]](https://github.com/neuralchen/ASMAGAN) [[paper]](https://arxiv.org/abs/2010.08175)
+
 ## The greatest style transfer papers
 - A Neural Algorithm of Artistic Style
 [[paper]](https://arxiv.org/pdf/1508.06576.pdf)
