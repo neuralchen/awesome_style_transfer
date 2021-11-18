@@ -22,6 +22,10 @@
 [[paper]](https://arxiv.org/pdf/1612.04337.pdf)
 
 ## ICCV2021
+
+- Learning to Stylize Novel Views 
+[[paper]](https://arxiv.org/pdf/2105.13509.pdf)
+
 - StyleFormer: Real-time Arbitrary Style Transfer via Parametric Style Composition
 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_StyleFormer_Real-Time_Arbitrary_Style_Transfer_via_Parametric_Style_Composition_ICCV_2021_paper.pdf)
 
