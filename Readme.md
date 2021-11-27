@@ -158,3 +158,23 @@
 
 - Style Transfer by Relaxed Optimal Transport and Self-Similarity
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Kolkin_Style_Transfer_by_Relaxed_Optimal_Transport_and_Self-Similarity_CVPR_2019_paper.html)
+
+## CVPR2018
+- Stereoscopic Neural Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Stereoscopic_Neural_Style_CVPR_2018_paper.pdf)
+
+- Multi-Content GAN for Few-Shot Font Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Azadi_Multi-Content_GAN_for_CVPR_2018_paper.pdf)
+
+- Neural Style Transfer via Meta Networks
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Neural_Style_Transfer_CVPR_2018_paper.pdf)
+
+- Arbitrary Style Transfer With Deep Feature Reshuffle
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_Arbitrary_Style_Transfer_CVPR_2018_paper.pdf)
+
+- Avatar-Net: Multi-Scale Zero-Shot Style Transfer by Feature Decoration
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sheng_Avatar-Net_Multi-Scale_Zero-Shot_CVPR_2018_paper.pdf)
+
+- Separating Style and Content for Generalized Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Separating_Style_and_CVPR_2018_paper.pdf)
+
