@@ -178,3 +178,18 @@
 - Separating Style and Content for Generalized Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Separating_Style_and_CVPR_2018_paper.pdf)
 
+## ICCV2017
+- Coherent Online Video Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Coherent_Online_Video_ICCV_2017_paper.pdf)
+
+- Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf)
+
+- Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Decoder_Network_Over_ICCV_2017_paper.pdf)
+
+- Sketching With Style: Visual Search With Sketches and Aesthetic Context
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Collomosse_Sketching_With_Style_ICCV_2017_paper.pdf)
+
+- Characterizing and Improving Stability in Neural Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gupta_Characterizing_and_Improving_ICCV_2017_paper.pdf)
