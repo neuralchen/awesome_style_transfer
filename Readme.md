@@ -101,7 +101,6 @@
 [[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ho_Deep_Preset_Blending_and_Retouching_Photos_With_Color_Style_Transfer_WACV_2021_paper.html)
 
 ## CVPR2020
-
 - Two-Stage Peer-Regularized Feature Recombination for Arbitrary Image Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Svoboda_Two-Stage_Peer-Regularized_Feature_Recombination_for_Arbitrary_Image_Style_Transfer_CVPR_2020_paper.html)
 
@@ -193,3 +192,19 @@
 
 - Characterizing and Improving Stability in Neural Style Transfer
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gupta_Characterizing_and_Improving_ICCV_2017_paper.pdf)
+
+## CVPR2017
+- Real-Time Neural Style Transfer for Videos
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
+
+- StyleBank: An Explicit Representation for Neural Image Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)
+
+- Controlling Perceptual Factors in Neural Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gatys_Controlling_Perceptual_Factors_CVPR_2017_paper.pdf)
+
+- Deep Photo Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Luan_Deep_Photo_Style_CVPR_2017_paper.pdf)
+
+- Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Multimodal_Transfer_A_CVPR_2017_paper.pdf)
