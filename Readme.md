@@ -21,6 +21,10 @@
 - Fast Patch-based Style Transfer of Arbitrary Style
 [[paper]](https://arxiv.org/pdf/1612.04337.pdf)
 
+## CVPR2022
+- StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
+[[paper]](https://arxiv.org/pdf/2112.01530.pdf)
+
 ## ICCV2021
 
 - Learning to Stylize Novel Views 
