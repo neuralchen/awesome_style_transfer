@@ -25,6 +25,33 @@
 - StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
 [[paper]](https://arxiv.org/pdf/2112.01530.pdf)
 
+- Unpaired Cartoon Image Synthesis via Gated Cycle Mapping
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.pdf)
+
+- Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Pastiche_Master_Exemplar-Based_High-Resolution_Portrait_Style_Transfer_CVPR_2022_paper.pdf)
+
+- StyTr2: Image Style Transfer With Transformers
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_StyTr2_Image_Style_Transfer_With_Transformers_CVPR_2022_paper.pdf)
+
+- PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chiu_PCA-Based_Knowledge_Distillation_Towards_Lightweight_and_Content-Style_Balanced_Photorealistic_Style_CVPR_2022_paper.pdf)
+
+- Industrial Style Transfer With Large-Scale Geometric Warping and Content Preservation
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Industrial_Style_Transfer_With_Large-Scale_Geometric_Warping_and_Content_Preservation_CVPR_2022_paper.pdf)
+
+- CLIPstyler: Image Style Transfer With a Single Text Condition
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kwon_CLIPstyler_Image_Style_Transfer_With_a_Single_Text_Condition_CVPR_2022_paper.pdf)
+
+- Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Exact_Feature_Distribution_Matching_for_Arbitrary_Style_Transfer_and_Domain_CVPR_2022_paper.pdf)
+
+- StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hollein_StyleMesh_Style_Transfer_for_Indoor_3D_Scene_Reconstructions_CVPR_2022_paper.pdf)
+
+- Artistic Style Discovery with Independent Components
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Artistic_Style_Discovery_With_Independent_Components_CVPR_2022_paper.pdf)
+
 ## ICCV2021
 
 - Learning to Stylize Novel Views 
