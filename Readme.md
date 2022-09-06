@@ -22,6 +22,9 @@
 [[paper]](https://arxiv.org/pdf/1612.04337.pdf)
 
 ## CVPR2022
+- Splicing ViT Features for Semantic Appearance Transfer
+[[paper]](https://arxiv.org/pdf/2201.00424.pdf)
+
 - StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
 [[paper]](https://arxiv.org/pdf/2112.01530.pdf)
 
